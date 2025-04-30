@@ -1,0 +1,20 @@
+{
+  "name": "prep-course-henry-nuevo",
+  "version": "1.0.0",
+  "description": "\"Este texto es una prueba de como cree mi primer repositorio sin saber mucho de programar\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jsabater20/Prep-Course-Henry-nuevo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jsabater20/Prep-Course-Henry-nuevo/issues"
+  },
+  "homepage": "https://github.com/Jsabater20/Prep-Course-Henry-nuevo#readme"
+}
